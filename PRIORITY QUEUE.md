@@ -31,7 +31,7 @@ To write a Python program for simple implementation of Priority Queue using Queu
 
 ```
 Reg.No: 212222060174
-Name: Pavithra S
+Name: Pavithra.S
 
 class PriorityQueue(object):
     def __init__(self):
